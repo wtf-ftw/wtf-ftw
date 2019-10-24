@@ -1,2 +1,2 @@
 def ftw():
-  print('ftw')
+  print('wtf-ftw')
